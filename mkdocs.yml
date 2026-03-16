@@ -1,0 +1,11 @@
+site_name: AgentOS Master
+site_url: https://anju-ia.github.io/agentos-master/
+theme:
+  name: mkdocs
+
+nav:
+  - Inicio: index.md
+  - Sesiones:
+      - Sesión 1: sesiones/sesion-01.md
+  - Bitácora:
+      - Sesión 1: bitacora/sesion-01.md
